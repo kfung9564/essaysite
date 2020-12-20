@@ -1,0 +1,29 @@
+{% extends 'userheader.html' %}
+
+{% block content %}
+<h1>Essay Preview</h1>
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ formset.management_form }}
+        {% for formurls in form_urls %}
+            <div style="text-align: center">
+                {% load static %}
+                        <img src="{% static formurls.1 %}" width="500px">
+                        {% for fields in formurls.0 %}
+                         <div>{{ fields.label }}</div>
+                         <div>{{ fields }}</div><br>
+                        {% if fields.help_text %}
+                          <small style="color: grey">{{ field.help_text }}</small>
+                        {% endif %}
+                        {% for error in fields.errors %}
+                          <p style="color: red">{{ error }}</p>
+                        {% endfor %}
+
+                    {% endfor %}
+                <hr style="width:30%">
+                </div><br><br><br>
+            {% endfor %}
+            <input type="submit" value="Submit">
+    </form>
+
+{% endblock %}

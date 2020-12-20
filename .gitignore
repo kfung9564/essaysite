@@ -1,0 +1,7 @@
+
+*.sqlite3
+static/sequential_30_model/saved_model.pb
+static/sequential_30_model/variables/variables.data-00000-of-00001
+static/sequential_30_model/variables/variables.index
+static/training_features.pkl
+static/wordvec_model

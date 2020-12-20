@@ -1,0 +1,11 @@
+{% extends 'userheader.html' %}
+
+{% block content %}
+<h1>Essay Grades</h1>
+    {% for entry in grade_entry %}
+        <h2>{{entry.0}}: {{entry.1}}, {{entry.2}}</h2>
+        <h3>Class: {{entry.3}}</h3>
+        <div>{{entry.4}}</div>
+        <br>
+    {% endfor %}
+{% endblock %}
