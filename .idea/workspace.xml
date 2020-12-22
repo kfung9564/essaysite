@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0540ccd7-a682-4b89-b4bd-876fc5ffe9d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/essaysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/essaysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="0540ccd7-a682-4b89-b4bd-876fc5ffe9d3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/essaysite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="91" column="26" lean-forward="true" selection-start-line="90" selection-start-column="21" selection-end-line="91" selection-end-column="26" />
+              <caret line="91" column="26" selection-start-line="90" selection-start-column="21" selection-end-line="91" selection-end-column="26" />
               <folding>
                 <element signature="e#310#334#0" expanded="true" />
               </folding>
@@ -457,7 +454,7 @@
     <entry file="file://$PROJECT_DIR$/essaysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="91" column="26" lean-forward="true" selection-start-line="90" selection-start-column="21" selection-end-line="91" selection-end-column="26" />
+          <caret line="91" column="26" selection-start-line="90" selection-start-column="21" selection-end-line="91" selection-end-column="26" />
           <folding>
             <element signature="e#310#334#0" expanded="true" />
           </folding>
