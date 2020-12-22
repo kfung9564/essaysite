@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0540ccd7-a682-4b89-b4bd-876fc5ffe9d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essaysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/essaysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +12,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/essaysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="91" column="26" lean-forward="true" selection-start-line="90" selection-start-column="21" selection-end-line="91" selection-end-column="26" />
+              <folding>
+                <element signature="e#310#334#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,14 +71,14 @@
         <option value="$PROJECT_DIR$/templates/gradebook.html" />
         <option value="$PROJECT_DIR$/templates/userheader.html" />
         <option value="$PROJECT_DIR$/templates/userpage.html" />
-        <option value="$PROJECT_DIR$/essaysite/settings.py" />
         <option value="$PROJECT_DIR$/signup/views.py" />
+        <option value="$PROJECT_DIR$/essaysite/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="159" />
-    <option name="y" value="74" />
+    <option name="x" value="99" />
+    <option name="y" value="1" />
     <option name="width" value="1699" />
     <option name="height" value="1040" />
   </component>
@@ -74,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,7 +110,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,7 +162,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="74" width="1699" height="1040" extended-state="0" />
+    <frame x="99" y="1" width="1699" height="1040" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21854305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -420,16 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/essaysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
-          <folding>
-            <element signature="e#310#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/signup/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -446,6 +450,16 @@
           <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essaysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="91" column="26" lean-forward="true" selection-start-line="90" selection-start-column="21" selection-end-line="91" selection-end-column="26" />
+          <folding>
+            <element signature="e#310#334#0" expanded="true" />
           </folding>
         </state>
       </provider>
